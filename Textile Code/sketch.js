@@ -6,7 +6,8 @@ let y;
 
 function preload() {
   img1 = loadImage('assets/spoopy_pig.png');
-
+  img2 = loadImage('assets/sharky_shark.png');
+  img3 = loadImage('assets/wowzers_alligator.png');
 }
 function setup() {
 createCanvas (1920,1080);
